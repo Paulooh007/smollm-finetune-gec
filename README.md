@@ -1,5 +1,7 @@
 # SmolLM-135M finetuned for Grammatical Error Correction (GEC) 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rLt15lSO_CESKooGDRY_aANujOPXshU7?usp=sharing)
+
 > This project was completed as part of the application process for the Cohere AI Research Scholar Program 2025 cohort.
 
 
